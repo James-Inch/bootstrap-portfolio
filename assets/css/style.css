@@ -1,0 +1,44 @@
+body {
+    background: #ebebeb;
+}
+
+#wrapper {
+    margin-top: 100px;
+    background: #ffffff;
+}
+
+footer {
+    height: 37px;
+    background: #666666;
+    width: 100%;
+    border-top: solid 3px;
+    border-color: #4aaaa5;
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    text-align: center
+}
+
+.navbar {
+    padding: 0;
+}
+
+.navbar-brand {
+    padding: 18px; 
+    background: #4aaaa5;
+    width: 180px;
+    text-align: center;
+    float: left;
+    font-family: 'Georgia', Times, Times New Roman, serif;
+    color: #ffffff;
+    line-height: 150%;
+    font-size: 24px;
+    font-weight: bold;
+}
+
+img {
+    height: 250px;
+    width: 250px;
+    padding: 20px;
+}
